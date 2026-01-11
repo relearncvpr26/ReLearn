@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Packaging/build
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Test/coverage/cache
+.pytest_cache/
+.mypy_cache/
+.coverage
+.coverage.*
+.cache/
+
+# Pelican
+output/
+cache/
+
+# IDE/editor
+.idea/
+.vscode/
+.DS_Store
