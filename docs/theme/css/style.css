@@ -156,7 +156,7 @@ a {
   padding: 8rem 0 12rem;
   background:
     linear-gradient(180deg, rgba(248, 249, 251, 0.35) 0%, rgba(248, 249, 251, 0.55) 60%, rgba(238, 242, 247, 1) 100%),
-    url("../images/denver_green.png");
+    url("../images/denver_green_compressed.png");
   background-size: cover;
   background-position: center 45%;
   background-repeat: no-repeat;
