@@ -401,6 +401,10 @@ a {
   margin-top: 1.5rem;
 }
 
+.schedule-meta {
+  font-weight: 700;
+}
+
 .schedule-row {
   display: grid;
   grid-template-columns: 90px 1fr;
