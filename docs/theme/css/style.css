@@ -59,6 +59,11 @@ a {
   text-decoration: none;
 }
 
+.text-link {
+  color: #001a7f;
+  text-decoration: underline;
+}
+
 .submission-link {
   display: inline-block;
   color: var(--accent-dark);
