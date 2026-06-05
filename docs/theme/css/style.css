@@ -400,6 +400,32 @@ a {
   color: var(--muted);
 }
 
+.paper-list {
+  display: grid;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.paper-card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 1.4rem 1.6rem;
+}
+
+.paper-title {
+  margin-top: 0;
+  margin-bottom: 0.55rem;
+  color: #000000;
+  font-size: 1.1rem;
+}
+
+.paper-authors {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 400;
+}
+
 .schedule {
   display: grid;
   gap: 0.6rem;
